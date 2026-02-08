@@ -1,0 +1,24 @@
+{
+  "H3" : {
+      "testrail_url": "https://qarowan.testrail.io/",
+      "user": "kjchu@rowan.kr",
+      "api_key": "5EEkeSYI7HiMEicuqKG6-51u2yX6vTyRTMOrW1EVu",
+      "project_id": 7,
+      "suite_id": 101,
+      "run_name": "H3 APP Basic 검증 자동화테스트",
+      "screenshot_file": "fail_screenshot.png",
+      "package_name": "com.rowan.superbrain_h_client.qa",
+      "activity_name": "com.rowan.superbrain_h_client.MainActivity",
+      "bastion_host": "43.203.68.55",
+      "bastion_port": 22,
+      "bastion_user": "ec2-user",
+      "rds_host": "superbrain-active.cbwwc0o00b3y.ap-northeast-2.rds.amazonaws.com",
+      "rds_port": 3306,
+      "rds_user": "qa",
+      "rds_pass": "rowan0810!1",
+      "rds_db": "user",
+      "phonenumber": "28470803"
+
+    }
+
+  }
